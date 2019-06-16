@@ -1,0 +1,10 @@
+C:\Users\Abra\source\repos\FileSize\FileSize\bin\Debug\FileSize.exe.config
+C:\Users\Abra\source\repos\FileSize\FileSize\bin\Debug\FileSize.exe
+C:\Users\Abra\source\repos\FileSize\FileSize\bin\Debug\FileSize.pdb
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.csprojAssemblyReference.cache
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.Form1.resources
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.Properties.Resources.resources
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.csproj.GenerateResource.cache
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.csproj.CoreCompileInputs.cache
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.exe
+C:\Users\Abra\source\repos\FileSize\FileSize\obj\Debug\FileSize.pdb
